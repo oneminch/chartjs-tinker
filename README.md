@@ -1,2 +1,2 @@
 # chartjs-tinker
-Created with CodeSandbox
+Experimenting with chart.js
