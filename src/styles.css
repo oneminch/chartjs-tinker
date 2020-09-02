@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  padding: 1em;
+  text-align: center;
+}
+
+label {
+  margin: 10px auto;
+  display: block;
+}
+span {
+  display: block;
+}
+
+input {
+  width: 25%;
+  display: inline-block;
+  margin: 0 5px;
+}
+.buttons {
+  margin: 0 auto;
+}
+button {
+  display: inline-block;
+  margin: 25px auto;
+  border: none;
+}
+button:first-child {
+  background: turquoise;
+}

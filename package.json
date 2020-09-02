@@ -1,0 +1,20 @@
+{
+  "name": "chartjs",
+  "version": "1.0.0",
+  "description": "Experimenting with Chart.js ",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "chart.js": "2.9.3",
+    "emmet": "2.1.1",
+    "mvp.css": "1.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
